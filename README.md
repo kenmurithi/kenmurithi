@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ken Murithi</h1>
+<h1 align="center">Hi 👋, I'm Ken Mugambi</h1>
 <h3 align="center">A passionate Bioinformatics researcher at University of Ottawa</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47tn88452uej5tpw04ebrc3zut0d1ztob4m4ld1tv0&rid=giphy.gif&ct=g">
 
