@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Pantranscriptomics of Arbuscular Mycorrhizal Fungi, and I am seeking postdoctoral opportunities in omics-driven research, including genomics, transcriptomics, and epigenomics.**
 
-- 📫 How to reach me **Kenmurithi522@gmail.com**
+- 📫 How to reach me **kenmurithi522@gmail.com** or **kmuga084@uottawa.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
